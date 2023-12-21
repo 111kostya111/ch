@@ -30,7 +30,7 @@ def igrat():
                 print(f"Осталось камней: {cumney}\n")
                 break
         if cumney <= 0:
-            print("Вы выиграли. ура!\n")
+            print("Вы выиграли. ура!!!!\n")
             break
 
 
